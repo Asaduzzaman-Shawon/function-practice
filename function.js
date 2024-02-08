@@ -15,12 +15,12 @@
 
 // jog(65, 5)
 
-function dif(num1, num2){
-    const par = num1 - num2;
-    console.log(par)
-}
+// function dif(num1, num2){
+//     const par = num1 - num2;
+//     console.log(par)
+// }
 
-const fatherAge = 55;
-const motherAge = 44;
+// const fatherAge = 55;
+// const motherAge = 44;
 
-dif(fatherAge, motherAge)
+// dif(fatherAge, motherAge)
