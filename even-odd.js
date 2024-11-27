@@ -4,10 +4,9 @@ function evenSizedString(str){
     if(size % 2 === 0){
         console.log("even size")
     }
-    else{
-        console.log("odd size")
+    if(size % 2 === 1){
+        console.log("odd size)
     }
-    
 
 }
 
